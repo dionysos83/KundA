@@ -1,0 +1,6 @@
+Repository anlegen und Code hochladen
+
+https://thomas-leister.de/allgemein/github-fuer-anfaenger-repository-anlegen-und-code-hochladen/
+
+Authentifizierung am GitHub-Server per public ssl schlüssel anstatt mit username und passwort:
+https://help.github.com/articles/generating-ssh-keys/
